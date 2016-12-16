@@ -8,10 +8,12 @@ While we normally write numbers using Arabic numerals, numbers can also be writt
 
 For example:
 
+```
  	7    == seven
  	42   == forty-two
  	2001 == two thousand and one
  	1999 == one thousand nine hundred and ninety-nine
+```
 
 Given that, this quiz is a problem from a [Pi Mu Epsilon newsletter](http://www.pme-math.org)
 
